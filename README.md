@@ -22,4 +22,5 @@ removes the noise and later another morphological
 operation called blackhat filter is used which enhances
 and extracts dark or small structures from an image. Thus, the resulting outputreceived are clear images free
 from hair.</br>
+</br>
 Before training the model, the skin lesion images are preprocessed to enhance the model's performance. The preprocessing steps include resizing images to a standard size, data augmentation, normalization, and splitting the data into training and validation sets.
