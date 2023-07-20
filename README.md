@@ -24,3 +24,7 @@ and extracts dark or small structures from an image. Thus, the resulting outputr
 from hair.</br>
 </br>
 Before training the model, the skin lesion images are preprocessed to enhance the model's performance. The preprocessing steps include resizing images to a standard size, data augmentation, normalization, and splitting the data into training and validation sets.
+
+![Screenshot 2023-07-20 131312](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/88f66a3f-c901-4540-ae77-64e92e0adb00)
+![WhatsApp Image 2023-07-06 at 23 23 32](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/9d479f88-07f1-499b-8289-186e3c97b772)
+
