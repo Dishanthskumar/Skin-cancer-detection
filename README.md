@@ -6,8 +6,10 @@ The dataset used in this project is the [Skin Cancer: Malignant vs. Benign](http
 This dataset contains a balanced dataset of images of benign skin moles and malignant skin moles from ISIC-Archive.
 
 ## Model Architecture
-The skin cancer detection model is based on a pre-trained convolutional neural network (CNN) architecture. The model leverages transfer learning by using a pre-trained model, Xception-CNN as a feature extractor. The extracted features are then fed into fully connected layers for classification.
+The skin cancer detection model is based on a pre-trained convolutional neural network (CNN) architecture. The model leverages transfer learning by using a pre-trained model, Xception-CNN as a feature extractor. The extracted features are then fed into fully connected layers for classification.</br>
+
 ![WhatsApp Image 2023-07-06 at 23 23 32](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/f3d56661-1d50-4166-af1d-b329db0fe400)
+
 ## Data Preprocessing
 The images that we have chosen has a standard
 size of 224×224. These images are cropped and
