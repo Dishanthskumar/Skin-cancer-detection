@@ -15,7 +15,7 @@ skin cancer and to distinguish benign(non-melanoma)
 skin cancer from melanoma. A model-driven architecture
 incorporating deep learning algorithms has been
 employed to develop enhanced models for skin cancer
-prediction.\ 
+prediction.<\br>
 The model
 proposed by us has been trained and tested over 3297
 different images of both malignant and benign lesions
