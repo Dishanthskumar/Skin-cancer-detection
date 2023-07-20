@@ -29,4 +29,6 @@ Before training the model, the skin lesion images are preprocessed to enhance th
 
 ![WhatsApp Image 2023-07-06 at 23 23 32](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/f3d56661-1d50-4166-af1d-b329db0fe400)
 
+## Results
+The performance and results of the skin cancer detection model are presented in the "Results" section of the notebook.</br> This includes metrics and visualizations showing how the model performs in classifying benign and malignant skin lesions.
 
