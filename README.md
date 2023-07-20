@@ -28,5 +28,5 @@ Before training the model, the skin lesion images are preprocessed to enhance th
 ![Screenshot 2023-07-20 131312|320x271](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/7086bc8e-790c-40d3-9b09-84f5eaabb78f)
 
 
-![WhatsApp Image 2023-07-06 at 23 23 32](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/9d479f88-07f1-499b-8289-186e3c97b772)
+![WhatsApp Image 2023-07-06 at 23 23 32|320x271](https://github.com/Dishanthskumar/Skin-cancer-detection/assets/78032283/9d479f88-07f1-499b-8289-186e3c97b772)
 
